@@ -1,6 +1,4 @@
-# my_app
-
-A Gleam Web server
+# A Gleam Web server
 
 
 To run:
